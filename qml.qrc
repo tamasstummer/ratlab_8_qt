@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="needle">needle.png</file>
+        <file>PanelMeter.qml</file>
+    </qresource>
+</RCC>
